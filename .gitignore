@@ -1,0 +1,17 @@
+# Virtual environment
+ai_data_cleaning_env/
+venv/
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit and logs
+.streamlit/secrets.toml
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
