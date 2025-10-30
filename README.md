@@ -25,7 +25,6 @@ This project aims to simplify that process by combining the power of Python, Fas
 
 ## App Preview
 
-You can include a screenshot of the app interface here:
 
 <img width="947" height="431" alt="image" src="https://github.com/user-attachments/assets/e70e5b45-9046-4a7a-8031-b5827fef6904" />
 
